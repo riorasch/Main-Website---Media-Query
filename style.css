@@ -38,7 +38,7 @@ h1 {
     display: flex;
     justify-content: center;
     align-items: center;
-     background-color: #d61565;
+     background-image: url(images/About\ Image.jpg);
     background-size: cover;
     background-position: center;
     height: 100vh;
